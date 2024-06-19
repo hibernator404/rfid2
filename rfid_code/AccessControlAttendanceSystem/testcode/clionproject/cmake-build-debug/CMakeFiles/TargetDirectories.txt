@@ -1,0 +1,3 @@
+D:/rfid_code/AccessControlAttendanceSystem/testcode/clionproject/cmake-build-debug/CMakeFiles/clionproject.dir
+D:/rfid_code/AccessControlAttendanceSystem/testcode/clionproject/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/rfid_code/AccessControlAttendanceSystem/testcode/clionproject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
